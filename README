@@ -1,0 +1,5 @@
+Install the necessary libraries by using the pip command.
+
+Next, execute the Analyzer by referring to the guidelines provided in the Jupyter Notebook named reviewjudge.ipynb. These instructions will help you load the Yelp reviews data and employ the Hugging Face model for tasks such as sentiment analysis and keyword extraction.
+
+For gaining insights from the reviews, launch face.py and access the provided link. Utilize the interface as per your requirements.
